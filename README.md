@@ -5,3 +5,10 @@
 - 🌱 Atualmente estudante da plataforma Alura
 - 🌱 Membro do Duolingo
 - 📫 Entre em contato através do email: vf834571@gmail.com
+
+# Linguagens e habilitações
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="60"/>
+          
+          
+          
