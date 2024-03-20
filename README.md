@@ -2,6 +2,7 @@
 ### _Sejam bem vindos ao meu perfil GitHub!!_
 
 - 🔭 Militar do exército brasileiro
+- 🌱 Cursando Engenharia de Software na UCB.
 - 🌱 Atualmente estudante da Alura
 - 🌱 Membro do Duolingo
 - 📫 Entre em contato através do email: vf834571@gmail.com
